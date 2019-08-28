@@ -1,5 +1,30 @@
 # Changelog
 
+## [v3.5.0] - future release, Late Aug/Sept 2019
+
+### Added
+
+- get(scheme, ::Gray) method added
+- dependencies on ColorTypes and FixedPointNumbers
+
+### Changed
+
+### Removed
+
+### Deprecated
+
+## [v3.4.0] - 2019-08-21
+
+### Added
+
+- turbo
+
+### Changed
+
+### Removed
+
+### Deprecated
+
 ## [v3.3.0] - 2019-06-01
 
 ### Added
